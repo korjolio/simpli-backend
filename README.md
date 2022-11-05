@@ -10,3 +10,6 @@ El motivo de este proyecto es demostrar las habilidades que posee el desarrollad
 El proyecto se encuentra montado en `AWS Lightsail`, utilizando un servidor de desarrollo, el cual se debe montar con el comando 
 `python manage.py runserver 0.0.0.0:8000`, mediante una conección SSH.
 Una vez ejecutado el comando anterior, la API REST se encontrará disponible en la url `54.191.239.230:8000/api`
+
+## Base de Datos
+Se utilizó PostgreSQL, en su versión 12.11. Montada en `AWS Lightsail`.
